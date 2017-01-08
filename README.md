@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Books](#books)
+- [Java Security](#java-security)
+  - [Resources](#resources)
+  - [keytool](#keytool)
+- [Certificates](#certificates)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Books
 * Network Security with OpenSSL (2002) https://www.amazon.com/Network-Security-OpenSSL-John-Viega/dp/059600270X
 * High Performance Browser Networking (2013) https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763
