@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Books](#books)
+- [Resources](#resources)
 - [Java Security](#java-security)
   - [Resources](#resources)
   - [keytool](#keytool)
@@ -10,13 +10,14 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Books
+# Resources
 * Network Security with OpenSSL (2002) https://www.amazon.com/Network-Security-OpenSSL-John-Viega/dp/059600270X
 * High Performance Browser Networking (2013) https://www.amazon.com/High-Performance-Browser-Networking-performance/dp/1449344763
   * Chapter 4. Transport Layer Security (TLS)
 * HTTP: The Definitive Guide (2002) https://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092
   * Chapter 14. Secure HTTP
 * Understanding Cryptography (2010) https://www.amazon.com/Understanding-Cryptography-Textbook-Students-Practitioners/dp/3642041000
+* OpenSSL Essentials https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
 
 # Java Security
 ## Resources
