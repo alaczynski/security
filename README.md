@@ -50,6 +50,7 @@ openssl x509 -in sample.pem -text -noout
 * OpenSSL Essentials https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
 * Intro to OpenSSL command line http://users.dcc.uchile.cl/~pcamacho/tutorial/crypto/openssl/openssl_intro.html
 * https://konklone.com/post/why-google-is-hurrying-the-web-to-kill-sha-1
+
 ## commands
 ```
 # version
